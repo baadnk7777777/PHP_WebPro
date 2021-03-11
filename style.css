@@ -1,0 +1,8 @@
+ul.menu{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.header{
+    background-color: aqua;
+}
